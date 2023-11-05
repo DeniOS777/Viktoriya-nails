@@ -1,0 +1,63 @@
+{
+  "header": {
+    "navigation": {
+      "link1": "Home",
+      "link2": "Portfolio",
+      "link3": "Services & prices",
+      "link4": "Contacts"
+    }
+  },
+  "hero": {
+    "text1": "Master",
+    "text2": "of professional manicure and pedicure",
+    "name": "Viktoriya Moskalenko",
+    "button": "Services & prices"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "text": "Here are my works"
+  },
+  "about": {
+    "title": "About me",
+    "text": "Hi all. My name is Victoria and I am a professional manicure and pedicure master. With pleasure I will make the session as comfortable and enjoyable as possible, and so that your arms and legs are very beautiful."
+  },
+  "price": {
+    "title": "Services & prices",
+    "button1": "Manicure",
+    "button2": "Pedicure",
+    "amount": "uah",
+    "manicure": {
+      "text1": "Simple manicure",
+      "text2": "Manicure on the form",
+      "text3": "Complex manicure",
+      "text4": "Complex manicure",
+      "text5": "Complex manicure",
+      "text6": "Complex manicure",
+      "text7": "Complex manicure",
+      "text8": "Complex manicure",
+      "text9": "Complex manicure",
+      "text10": "Complex manicure"
+    },
+    "pedicure": {
+      "text1": "Simple pedicure",
+      "text2": "Pedicure on the form",
+      "text3": "Complex pedicure",
+      "text4": "Complex pedicure",
+      "text5": "Complex pedicure",
+      "text6": "Complex pedicure",
+      "text7": "Complex pedicure",
+      "text8": "Complex pedicure",
+      "text9": "Complex pedicure",
+      "text10": "Complex pedicure"
+    }
+  },
+  "footer": {
+    "navigation": {
+      "link1": "Home",
+      "link2": "Portfolio",
+      "link3": "Services & prices",
+      "link4": "Contacts"
+    }
+  },
+  "btnToTop": "To top"
+}
